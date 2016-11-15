@@ -7,4 +7,4 @@ studiert Informatik
 
 ging aufs ***Wirtschatsgynasium***
 
-![Bild kann nicht nagezeigt werden] (~/Dokumente/3.Semester/Open Source-basierte Softwareentwicklung/GithubEinkaufsliste/Einkaufsliste/Bild.jpg)
+![Bild kann nicht nagezeigt werden] (https://github.com/marius711997/Einkaufsliste/blob/neuerzweig/Bild.jpg)
