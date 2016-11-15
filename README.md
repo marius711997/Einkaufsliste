@@ -5,4 +5,4 @@
 
 studiert Informatik 
 
-ging aufs ***Wirtschatsgynasium***
+ging aufs ***Wirtschaftsgynasium***
